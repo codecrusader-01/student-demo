@@ -1,7 +1,7 @@
 # student-demo
 <br>
-this is my startup
+this is my startup.
 <br>
-my name is saaad 
+my name is saaad. 
 <BR>
-i chose my git hun name as (codecrusader-01)
+i chose my git hub name as (codecrusader-01).
